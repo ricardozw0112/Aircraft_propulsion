@@ -1,2 +1,2 @@
-# Propulsion_projects
-Aircraft and rocket propulsion research
+# Aircraft_propulsion
+Aircraft propulsion research and learning
